@@ -1,0 +1,14 @@
+.env
+*.sql
+*.zip
+*.log
+__pycache__/
+node_modules/
+tmp_files/
+*.out
+.env
+*.sql
+*.zip
+*.log
+node_modules/
+__pycache__/
